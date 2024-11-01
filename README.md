@@ -1,4 +1,4 @@
-# Check Bot
+# Songix Bot
 
 Songix Bot — это Telegram-бот, созданный с использованием библиотеки Aiogram для web-приложения Songix
 
